@@ -44,3 +44,6 @@ The for keyword is used to iterate over items of a collection in order that they
 
 ## The assignment operator
 The assignment operator = assigns a value to a variable.
+
+---
+
